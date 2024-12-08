@@ -1,0 +1,236 @@
+*{
+    background-color: rgb(30,24,36);
+    padding: 0;
+    margin: 0;
+}
+.a{
+    color: violet;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: "Roboto",serif;
+    font-weight: 700;
+    background-color: rgba(20, 16, 16, 0.726);
+    margin-left: 100px;
+}
+.b{
+    color: greenyellow;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: "Roboto",serif;
+    font-weight: 700;
+    background-color: rgba(20, 16, 16, 0.726);
+    margin-right:40px ;
+}
+.container{
+    background-color: rgba(20, 16, 16, 0.726);
+    padding: 10px;
+}
+.c{
+    color:white;
+    font-weight: 300;
+    font-family: "Roboto",serif;
+    text-decoration: none;
+    margin-left: 900px;
+    font-size: 20px;
+}
+.d{
+    color:white;
+    font-family: "Roboto",serif;
+    text-decoration: none;
+    font-size: 20px;
+    border: 2px white solid;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.head{
+    color: white;
+    font-family: "roboto",serif;
+    display: inline-block;
+    margin-top: 150px;
+    margin-left: 80px;
+    font-weight: 800;
+}
+.ab{
+    font-size: 50px;
+}
+.cd{
+    font-size: 30px;
+    margin-top: 20px;
+    font-family: "Roboto",sans-serif;
+}
+b{
+    text-decoration: underline greenyellow;
+}
+.button{
+    background-color: rgb(174, 6, 246);
+    color: white;
+    height: 75px;
+    width: 250px;
+    font-size: 30px;
+    font-family: "Roboto",sans-serif;
+    font-weight: 1000;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.image{
+    width: 400px;
+    height: 400px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.our{
+    color: white;
+    font-size: 30px;
+    font-family: "Roboto",serif;
+    font-weight: 600;
+    margin-left: 75px;
+}
+.react{
+    background-color: rgb(40, 40, 76);
+    display: inline-block;
+    margin-left: 80px;
+    margin-top: 50px;
+    height: 400px;
+    width: 400px;
+    padding-bottom: 20px;
+}
+.py{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(40, 40, 76);
+    margin-left: 120px;
+    margin-top: 30px;
+}
+.pyt{
+    color: white;
+    font-size: 20px;
+    margin-left:160px;
+    margin-top: 20px;
+    font-weight: 900;
+    background-color: rgb(40, 40, 76);
+}
+.pyth{
+    color: white;
+    font-size: 15px;
+    margin-left:150px;
+    margin-top: 10px;
+    font-weight: 900;
+    background-color: rgb(40, 40, 76);
+}
+.word{
+    height: 30px;
+    width: 30px;
+    background-color: rgb(40, 40, 76);
+    margin-left: 140px;
+    margin-top: 10px;
+}
+.nu{
+    margin-left: 140px;
+    margin-top: 10px;
+    font-weight: 900;
+    background-color: rgb(40, 40, 76);
+    color: white;
+}
+.nua{
+    background-color: rgb(40, 40, 76);
+    color: white;
+}
+.nub{
+    margin-top: 10px;
+    color: white;
+    background-color: rgb(40, 40, 76);
+    margin-left: 140px;
+}
+.abcd{
+    font-size: 30px;
+    background-color: rgb(40, 40, 76);
+}
+.jss{
+    display: flex;
+    background-color: rgb(40, 40, 76);
+}
+.jsss{
+    color: white;
+    background-color: rgb(174, 6, 246);
+    height: 50px;
+    width:100px;
+    border-radius: 10px;
+    margin-left: 40PX;
+    margin-top: 20px;
+}
+.jsx{
+    color: white;
+    background-color: rgb(174, 6, 246);
+    height: 50px;
+    width:100px;
+    border-radius: 10px;
+    margin-left: 0px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.y{
+    margin-top: 50px;
+    color: white;
+    font-size: 30px;
+    font-weight: 900;
+    font-family: "Roboto",sans-serif;
+    margin-left: 80px;
+}
+.yyy{
+    background-color: rgb(73, 73, 73);
+    height: 300px;
+    width: 400px;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+.spi{
+    background-color: rgb(73, 73, 73);
+    margin-left: 30px;
+    padding: 10px;
+    border:2px white solid;
+    border-radius: 100px;
+}
+.yyyy{
+    background-color: rgb(73, 73, 73);
+    padding: 10px;
+}
+.xxyy{
+    background-color: rgb(73, 73, 73);
+    color: white;
+    margin-top: 20px;
+    padding: 20px;
+}
+.yy{
+    display: flex;
+}
+.ads{
+    margin-top: 300px;
+    height: 30px;
+    background-color: rgba(20, 16, 16, 0.726);
+    padding: 20px;
+}
+.adss{
+    background-color: rgba(20, 16, 16, 0.726);
+    padding: 20px;
+}
+.asa{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 800;
+    margin-left: 200px;
+}
+.jsa{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 800;
+    margin-left: 750px;
+}
+.jsaa{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 800;
+    margin-left: 700px;
+}
